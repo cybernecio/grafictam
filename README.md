@@ -1,0 +1,2 @@
+# grafictam
+exerrcise for class
